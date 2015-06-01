@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "layout": "one.html"
+    },
+    "data": {
+        "Title": "Title from data file"
+    }
+}
